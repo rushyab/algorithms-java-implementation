@@ -1,3 +1,3 @@
 # algorithms-java-implementation
-Practicing Algorithms and Data Structures <br />
+Implementation of common Data Structures and Algorithms <br />
 
